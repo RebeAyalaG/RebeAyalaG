@@ -17,13 +17,15 @@
 
 </div>
 
+<!-- ✿ IMAGEN CENTRADA ✿ -->
+<div align="center">
+<img width="420" src="coding.jpg" alt="coding" style="border-radius:16px;" />
+</div>
+
 <!-- ✿ DIVIDER ✿ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,50:FF1493,100:C71585&height=3&section=header" alt="divider" />
 
 ## 🌸 `whoami`
-
-
-<img align="right" width="300" src="coding.jpg" alt="coding" />
 
 ```yaml
 👩‍💻 rol:    Full Stack Developer
@@ -32,8 +34,6 @@
 💖 foco:   pagos, integraciones, automatización, cloud
 ✨ lema:   "aprender algo nuevo cada día"
 ```
-
-<br clear="right"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,50:FF1493,100:C71585&height=3&section=header" alt="divider" />
 
