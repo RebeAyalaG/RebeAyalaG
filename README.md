@@ -125,28 +125,20 @@
 
 ## 📊 GitHub en movimiento
 
-<!-- 🐍 SNAKE: comiendo mis contribuciones (ver nota al final para activarlo) -->
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/RebeAyalaG?style=for-the-badge&logo=github&logoColor=white&labelColor=131320&color=FF69B4)
+![Stars](https://img.shields.io/github/stars/RebeAyalaG?style=for-the-badge&logo=github&logoColor=white&labelColor=131320&color=FF1493)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRebeAyalaG&query=%24.public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=white&labelColor=131320&color=C71585)
+
+</div>
+
+<br/>
+
+<!-- 🐍 SNAKE: se llena a medida que sumás contribuciones -->
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/RebeAyalaG/RebeAyalaG/output/snake-dark.svg" alt="snake" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RebeAyalaG&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0d1117&icon_color=ff69b4&text_color=ffb6c1&custom_title=&rank_icon=percentile" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebeAyalaG&layout=donut&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1" alt="top langs" />
-
-</div>
-
-<br/>
-
-<!-- 📈 Gráfico de actividad con curva rosa -->
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RebeAyalaG&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffb6c1&area=true&hide_border=true&custom_title=Mi%20actividad%20en%20GitHub" alt="activity graph" />
 
 </div>
 
